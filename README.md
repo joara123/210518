@@ -14,4 +14,4 @@ __배달쉐어앱__
 [구글검색](https://www.google.co.kr/)</br>
 [메모앱](https://github.com/joara123/210518_2/blob/main/README.md)
 
-[![test](https://user-images.githubusercontent.com/52689917/118621683-90474500-b801-11eb-8db5-39829c38f2c2.png)]()
+[![test](https://user-images.githubusercontent.com/52689917/118621683-90474500-b801-11eb-8db5-39829c38f2c2.png)](https://github.com/hallymsw/2021_major_program/tree/main/5_portfolio)
