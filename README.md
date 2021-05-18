@@ -11,4 +11,5 @@ __배달쉐어앱__
 - **기능**
 &nbsp; 1인 가족 시대를 맞아 혼자 먹기 힘든 배달음식 _나눠먹기 위한 앱_
 
-[구글검색](https://www.google.co.kr/)
+[구글검색](https://www.google.co.kr/)</br>
+[메모앱](https://github.com/joara123/210518_2/blob/main/README.md)
